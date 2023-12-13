@@ -1,6 +1,6 @@
- # RentACar🚗🚙
+# RentACar🚗🚙
  
-##Developers
+## Developers
 
--Ian Miočić
--Branimir Ivanda
+- Ian Miočić
+- Branimir Ivanda
