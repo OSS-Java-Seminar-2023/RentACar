@@ -1,7 +1,7 @@
 # RentACar🚗🚙
  
 ## Developers
-'''bash
+```bash
 - Ian Miočić
 - Branimir Ivanda
-'''
+```
