@@ -5,7 +5,7 @@
 - Ian Miočić
 - Branimir Ivanda
 
-
+## Introduction
 The Rent-a-Car Application is a project developed as part of a car rental system. This application provides users with the ability to easily and efficiently rent vehicles, allowing them to quickly and effortlessly reserve a vehicle based on their needs.
 
 ## Features 📋
