@@ -29,7 +29,7 @@ The Rent-a-Car Application is a project developed as part of a car rental system
 ## Implementation 💡
 
 ### Database🗃️
-![database](https://github.com/OSS-Java-Seminar-2023/RentACar/assets/114437400/6d44e87c-df74-4ee4-b2c6-6d9ae740e098)
+![dbDiagram](https://github.com/OSS-Java-Seminar-2023/RentACar/assets/114437400/d0a15bf8-45af-472f-b8b6-5cf56e23040d)
 
 
 
