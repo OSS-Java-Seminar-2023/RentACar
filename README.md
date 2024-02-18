@@ -14,17 +14,15 @@ The Rent-a-Car Application is a project developed as part of a car rental system
 
 - User Management:
   - Add, modify, and delete user accounts
-- Passenger Management:
-  - Add, modify, and delete passenger information
 - Vehicle Management:
   - Add, modify, and delete vehicle details
+- Booking Management:
+  - View bookings
 
 ### User
 
 - Booking:
-  - Reserve vehicles for one or multiple passengers
-  - Book round-trip journeys
-  - Cancel reservations
+  - Reserve vehicles 
 
 ## Implementation 💡
 
